@@ -14,10 +14,11 @@ Squad:
 ![Squad](squad.png)
 
 Duo:
-![Duo](https://raw.githubusercontent.com/michaevelli/pubgsim/master/duo.png)
+![Duo](duo.png)
 
 Solo:
-![Solo](https://raw.githubusercontent.com/michaevelli/pubgsim/master/solo.png)
+![Solo](solo.png)
+
 ## Usage
 
 To use:
