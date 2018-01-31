@@ -9,13 +9,13 @@ The output of several simulations were put into excel (file in repo) and a trend
 Results are as follows
 
 Squad:
-![Squad](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/squad.png)
+![Squad](https://raw.githubusercontent.com/michaevelli/pubgsim/master/squad.png)
 
 Duo:
-![Duo](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/duo.png)
+![Duo](https://raw.githubusercontent.com/michaevelli/pubgsim/master/duo.png)
 
 Solo:
-![Solo](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/solo.png)
+![Solo](https://raw.githubusercontent.com/michaevelli/pubgsim/master/solo.png)
 ## Usage
 
 To use:
