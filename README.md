@@ -6,6 +6,8 @@ Given 100 people in 25 teams of 4, I wanted to find out how many teams are left 
 
 The output of several simulations were put into excel (file in repo) and a trend graph of the average, min and max were created. 100 simulations were run for 25 teams of 4, 50 teams of 2 and 100 teams of 1.
 
+Note: this is not a perfect simulation by far. Here, every individual has an equally likely chance of "death", however this is not true in PUBG. Larger squads have a higher chance of surviving encounters, the field, etc are not taken into account. This simulation simply picks one random individual to "die" every turn.
+
 Results are as follows
 
 Squad:
