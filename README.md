@@ -27,7 +27,7 @@ $ <b>./pubgsim</b>
 
 To perform multiple (100) simulations (and output to file):
 <pre>
-$ <b> for i in {00..99}; do ./pubgsim >> out; sleep 1; done;
+$ <b> for i in {00..99}; do ./pubgsim >> out; sleep 1; done;</b>
 </pre>
 (sleep 1 is necessary as the program's random seeds by the second)
 
