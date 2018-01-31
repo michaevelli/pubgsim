@@ -1,11 +1,21 @@
 ## PUBG death simulation
 
-Program to crunch out data simulating the number of teams left active as individuals are elimated.
+Program to crunch out data simulating the number of teams left active as individuals are elimated. Each numerical output is the number of teams alive and represents a "death".
 
 Given 100 people in 25 teams of 4, I wanted to find out how many teams are left active given a certain number of people are alive. This program simulates the "deaths" of 100 "individuals" which are grouped into teams and counts the number of teams active for each number of people alive.
 
 The output of several simulations were put into excel (file in repo) and a trend graph of the average, min and max were created. 100 simulations were run for 25 teams of 4, 50 teams of 2 and 100 teams of 1.
 
+Results are as follows
+
+Squad:
+![Squad](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/squad.png)
+
+Duo:
+![Duo](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/duo.png)
+
+Solo:
+![Solo](https://raw.githubusercontent.com/michaevelli/pubgsim/branch/solo.png)
 ## Usage
 
 To use:
