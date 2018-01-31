@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 1
-#define TEAMS 100
+#define SIZE 4
+#define TEAMS 25
 
 int teama(int array[SIZE][TEAMS]);
 int alive(int array[SIZE][TEAMS]);
