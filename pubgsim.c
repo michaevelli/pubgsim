@@ -20,12 +20,13 @@ int main(void){
     }
 
     int change = alive(ppl);
+    printf("%d", change);
     while(alive(ppl) > 1){
         int rx = rand()%TEAMS;
         int ry = rand()%SIZE;
         ppl[ry][rx] = 1;
         if(alive(ppl) != change){
-            printf("%d\t", teama(ppl));
+            printf("\t%d", teama(ppl));
             change = alive(ppl);
         }
     }
