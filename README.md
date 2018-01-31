@@ -11,7 +11,7 @@ Note: this is not a perfect simulation by far. Here, every individual has an equ
 Results are as follows
 
 Squad:
-![Squad](https://raw.githubusercontent.com/michaevelli/pubgsim/master/squad.png)
+![Squad](squad.png)
 
 Duo:
 ![Duo](https://raw.githubusercontent.com/michaevelli/pubgsim/master/duo.png)
